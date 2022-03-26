@@ -14,4 +14,8 @@ html {
   justify-content: space-around;
   align-items: center;
   width: 100%;
+  font-family: "Times New Roman", Times, serif;
+}
+#list-1 {
+  color: red;
 }
